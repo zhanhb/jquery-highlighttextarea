@@ -58,3 +58,5 @@ pygments: true
 highlight: pygments
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile']
+github:
+  url: 'https://garysieling.github.io/jquery-highlighttextarea/'
