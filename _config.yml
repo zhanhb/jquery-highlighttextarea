@@ -32,7 +32,7 @@ header:
 
 # github button
 githubButton:
-  user: zhanhb
+  user: garysieling
   repo: jquery-highlighttextarea
 
 # twitter buttons
@@ -59,4 +59,4 @@ highlight: pygments
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile']
 github:
-  url: 'https://garysieling.github.io/jquery-highlighttextarea'
+  url: 'https://zhanhb.github.io/jquery-highlighttextarea'
